@@ -64,11 +64,11 @@ Using Server Manager on DC-1, I install the Active Directory Domain Services rol
 
 
 <p>
-<img width="450" alt="acd users n cpu (Users)" src="https://github.com/user-attachments/assets/2e5c3cc1-fa93-4709-baa2-93fa6441be0d" />
-<img width="450" alt="Add folder _ADMIN _EMPLOYEES" src="https://github.com/user-attachments/assets/7e674d42-a9bf-4a8e-b595-044422c525f3" />
-<img width="450" alt="adding new user (Jane)" src="https://github.com/user-attachments/assets/138fbdb2-20b0-4256-83c5-81529a3da2fd" />
-<img width="450" alt="adding user (Jane doe)" src="https://github.com/user-attachments/assets/bb6c4d76-d4f1-4cef-81b2-8df5ed6adc6b" />
-<img width="450" alt="adding folder (_ADMIN _EMPLOYEES) top list" src="https://github.com/user-attachments/assets/15e19bd7-8689-4a72-b2de-0abc6c9bdf4e" />
+<img width="500" alt="acd users n cpu (Users)" src="https://github.com/user-attachments/assets/2e5c3cc1-fa93-4709-baa2-93fa6441be0d" />
+<img width="500" alt="Add folder _ADMIN _EMPLOYEES" src="https://github.com/user-attachments/assets/7e674d42-a9bf-4a8e-b595-044422c525f3" />
+<img width="500" alt="adding new user (Jane)" src="https://github.com/user-attachments/assets/138fbdb2-20b0-4256-83c5-81529a3da2fd" />
+<img width="500" alt="adding user (Jane doe)" src="https://github.com/user-attachments/assets/bb6c4d76-d4f1-4cef-81b2-8df5ed6adc6b" />
+<img width="500" alt="adding folder (_ADMIN _EMPLOYEES) top list" src="https://github.com/user-attachments/assets/15e19bd7-8689-4a72-b2de-0abc6c9bdf4e" />
 
 </p>
 <p>
@@ -80,10 +80,10 @@ In the Active Directory Users and Computers (ADUC) tool, I create two Organizati
 
 
 <p>
-<img width="450" alt="jane logging in" src="https://github.com/user-attachments/assets/89863708-bee6-40ce-a3f1-b116bd680f92" />
-<img width="450" alt="created mydomain com" src="https://github.com/user-attachments/assets/0e3d5530-f442-418c-b43d-007ef48fc565" />
-<img width="450" alt="client-1 in computer folder" src="https://github.com/user-attachments/assets/c1435533-2b58-4fc1-8654-78c260cee8e8" />
-<img width="450" alt="client-1 in _CLIENTS folder" src="https://github.com/user-attachments/assets/cc81bd5a-988f-4b04-aaf6-da65f6d96947" />
+<img width="500" alt="jane logging in" src="https://github.com/user-attachments/assets/89863708-bee6-40ce-a3f1-b116bd680f92" />
+<img width="500" alt="created mydomain com" src="https://github.com/user-attachments/assets/0e3d5530-f442-418c-b43d-007ef48fc565" />
+<img width="500" alt="client-1 in computer folder" src="https://github.com/user-attachments/assets/c1435533-2b58-4fc1-8654-78c260cee8e8" />
+<img width="500" alt="client-1 in _CLIENTS folder" src="https://github.com/user-attachments/assets/cc81bd5a-988f-4b04-aaf6-da65f6d96947" />
 
 </p>
 <p>
